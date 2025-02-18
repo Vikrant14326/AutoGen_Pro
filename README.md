@@ -1,4 +1,4 @@
-#DEMO OF PROJRCT
+# DEMO OF PROJRCT
 
 https://github.com/user-attachments/assets/75aa1f48-a256-4f03-b7d1-7c12b40aa8bf
 
